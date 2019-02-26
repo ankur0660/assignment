@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package entity;
+//
 
 /*general template for cars */
 public abstract class Car {
